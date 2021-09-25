@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https,://roophee.github.io/firebase-chart/static/css/main.f5893c45.chunk.css",
+    "main.js": "/https,://roophee.github.io/firebase-chart/static/js/main.6a25ff27.chunk.js",
+    "main.js.map": "/https,://roophee.github.io/firebase-chart/static/js/main.6a25ff27.chunk.js.map",
+    "runtime-main.js": "/https,://roophee.github.io/firebase-chart/static/js/runtime-main.933d79ba.js",
+    "runtime-main.js.map": "/https,://roophee.github.io/firebase-chart/static/js/runtime-main.933d79ba.js.map",
+    "static/js/2.2095eec2.chunk.js": "/https,://roophee.github.io/firebase-chart/static/js/2.2095eec2.chunk.js",
+    "static/js/2.2095eec2.chunk.js.map": "/https,://roophee.github.io/firebase-chart/static/js/2.2095eec2.chunk.js.map",
+    "static/js/3.2d2d7f35.chunk.js": "/https,://roophee.github.io/firebase-chart/static/js/3.2d2d7f35.chunk.js",
+    "static/js/3.2d2d7f35.chunk.js.map": "/https,://roophee.github.io/firebase-chart/static/js/3.2d2d7f35.chunk.js.map",
+    "static/js/4.c0366177.chunk.js": "/https,://roophee.github.io/firebase-chart/static/js/4.c0366177.chunk.js",
+    "static/js/4.c0366177.chunk.js.map": "/https,://roophee.github.io/firebase-chart/static/js/4.c0366177.chunk.js.map",
+    "index.html": "/https,://roophee.github.io/firebase-chart/index.html",
+    "static/css/main.f5893c45.chunk.css.map": "/https,://roophee.github.io/firebase-chart/static/css/main.f5893c45.chunk.css.map",
+    "static/js/2.2095eec2.chunk.js.LICENSE.txt": "/https,://roophee.github.io/firebase-chart/static/js/2.2095eec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933d79ba.js",
+    "static/js/2.2095eec2.chunk.js",
+    "static/css/main.f5893c45.chunk.css",
+    "static/js/main.6a25ff27.chunk.js"
+  ]
+}
